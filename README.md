@@ -10,7 +10,11 @@
 
 ## Task 1 - Time-Series Modeling
 
+https://github.com/ecdedios/d213-advanced-data-analytics/tree/main/task1
+
 ## Task 2 - Sentiment Analysis Using Neural Networks
+
+https://github.com/ecdedios/d213-advanced-data-analytics/tree/main/task2
 
 ## Meta
 
